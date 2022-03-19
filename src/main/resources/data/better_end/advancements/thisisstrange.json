@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:strangeblock"
+    },
+    "title": {
+      "translate": "advancements.thisisstrange.title"
+    },
+    "description": {
+      "translate": "advancements.thisisstrange.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thisisstrange": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "better_end:strangeblock"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:betterend"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/shuklerblox",
+    "up": "better_end:blocks/shuklerblox",
+    "north": "better_end:blocks/shuklerblox",
+    "east": "better_end:blocks/shuklerblox",
+    "south": "better_end:blocks/shuklerblox",
+    "west": "better_end:blocks/shuklerblox",
+    "particle": "better_end:blocks/shuklerblox"
+  }
+}

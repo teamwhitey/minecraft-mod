@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WaterLog"
+      },
+      {
+        "value": "CUSTOM:WaterLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WaterLog"
+      },
+      {
+        "value": "CUSTOM:WaterLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WaterWood"
+    },
+    "name": "water_wood_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "better_end:block/enderplant"
+    },
+    "half=lower": {
+      "model": "better_end:block/enderplant_bottom"
+    }
+  }
+}

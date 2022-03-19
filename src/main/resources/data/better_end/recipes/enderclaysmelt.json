@@ -1,0 +1,12 @@
+{
+  "group": "better_end",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "better_end:enderclayball"
+  },
+  "result": {
+    "item": "better_end:enderbrick"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:enderstone"
+    },
+    "1": {
+      "item": "better_end:enderstone"
+    },
+    "2": {
+      "item": "better_end:enderstone"
+    },
+    "3": {
+      "item": "better_end:enderstone"
+    }
+  },
+  "result": {
+    "item": "better_end:enderstonebrick",
+    "count": 4
+  }
+}

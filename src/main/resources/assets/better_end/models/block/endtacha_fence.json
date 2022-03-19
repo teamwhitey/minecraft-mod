@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "better_end:blocks/endtacha_planks",
+    "particle": "better_end:blocks/endtacha_planks"
+  }
+}

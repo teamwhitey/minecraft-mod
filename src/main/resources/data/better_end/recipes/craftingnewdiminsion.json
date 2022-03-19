@@ -1,0 +1,16 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "better_end:ender_button"
+    }
+  ],
+  "result": {
+    "item": "better_end:enderdesert",
+    "count": 1
+  }
+}

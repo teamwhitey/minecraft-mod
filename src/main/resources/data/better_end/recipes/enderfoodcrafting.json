@@ -1,0 +1,30 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "better_end:magic_leaves"
+    },
+    "3": {
+      "item": "better_end:magic_leaves"
+    },
+    "4": {
+      "item": "better_end:cobboledendstone"
+    },
+    "5": {
+      "item": "better_end:magic_leaves"
+    },
+    "7": {
+      "item": "better_end:magic_leaves"
+    }
+  },
+  "result": {
+    "item": "better_end:enderfood",
+    "count": 4
+  }
+}

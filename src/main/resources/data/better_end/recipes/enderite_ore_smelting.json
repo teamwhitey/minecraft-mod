@@ -1,0 +1,12 @@
+{
+  "group": "better_end",
+  "type": "minecraft:smelting",
+  "experience": 2.03,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "better_end:enderite_ore"
+  },
+  "result": {
+    "item": "better_end:enderite_ingot"
+  }
+}

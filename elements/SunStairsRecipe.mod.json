@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SunPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SunPlanks"
+      },
+      {
+        "value": "CUSTOM:SunPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SunPlanks"
+      },
+      {
+        "value": "CUSTOM:SunPlanks"
+      },
+      {
+        "value": "CUSTOM:SunPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SunStairs"
+    },
+    "name": "sun_stairs_recipe",
+    "namespace": "mod"
+  }
+}

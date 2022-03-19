@@ -1,0 +1,39 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "2": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "3": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "4": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "5": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "6": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "7": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "8": {
+      "item": "better_end:obsidaniteingot"
+    }
+  },
+  "result": {
+    "item": "better_end:obsidanite_armor_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Endernylum"
+      },
+      {
+        "value": "CUSTOM:Magucnylum"
+      },
+      {
+        "value": "CUSTOM:Dragonnylim"
+      },
+      {
+        "value": "CUSTOM:Sunnylum"
+      },
+      {
+        "value": "CUSTOM:Waternylim"
+      },
+      {
+        "value": "CUSTOM:Endsand"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:EnderFence"
+      },
+      {
+        "value": "CUSTOM:MagicFence"
+      },
+      {
+        "value": "CUSTOM:DragonFence"
+      },
+      {
+        "value": "CUSTOM:SunFence"
+      },
+      {
+        "value": "CUSTOM:WaterFence"
+      },
+      {
+        "value": "CUSTOM:EndtachaFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "wooden_fences",
+    "namespace": "minecraft"
+  }
+}

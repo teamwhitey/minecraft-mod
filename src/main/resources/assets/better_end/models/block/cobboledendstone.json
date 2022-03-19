@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/cobend",
+    "up": "better_end:blocks/cobend",
+    "north": "better_end:blocks/cobend",
+    "east": "better_end:blocks/cobend",
+    "south": "better_end:blocks/cobend",
+    "west": "better_end:blocks/cobend",
+    "particle": "better_end:blocks/cobend"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:ender"
+    },
+    "title": {
+      "translate": "advancements.aftertheend.title"
+    },
+    "description": {
+      "translate": "advancements.aftertheend.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aftertheend": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "better_end:ender",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/enter_the_end"
+}

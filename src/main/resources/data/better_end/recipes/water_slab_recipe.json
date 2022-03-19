@@ -1,0 +1,22 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:water_planks"
+    },
+    "1": {
+      "item": "better_end:water_planks"
+    },
+    "2": {
+      "item": "better_end:water_planks"
+    }
+  },
+  "result": {
+    "item": "better_end:water_slab",
+    "count": 6
+  }
+}

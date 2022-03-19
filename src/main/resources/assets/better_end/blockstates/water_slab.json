@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "better_end:block/water_slab"
+    },
+    "type=top": {
+      "model": "better_end:block/water_slab_top"
+    },
+    "type=double": {
+      "model": "better_end:block/water_slab_full"
+    }
+  }
+}

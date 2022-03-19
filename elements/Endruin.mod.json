@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "endruin",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 11000,
+    "minCountPerChunk": 3,
+    "maxCountPerChunk": 5,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Ender"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Endernylum"
+      },
+      {
+        "value": "CUSTOM:Magucnylum"
+      },
+      {
+        "value": "CUSTOM:Dragonnylim"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

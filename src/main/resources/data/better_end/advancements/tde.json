@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:enderdesert"
+    },
+    "title": {
+      "translate": "advancements.tde.title"
+    },
+    "description": {
+      "translate": "advancements.tde.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tde": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "better_end:enderdesert"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:betterend"
+}

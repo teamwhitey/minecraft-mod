@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:cobboledendstone"
+    },
+    "title": {
+      "translate": "advancements.cobbolestone.title"
+    },
+    "description": {
+      "translate": "advancements.cobbolestone.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cobbolestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "better_end:cobboledendstone",
+            "count": {
+              "min": 1,
+              "max": 1000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:punchingendertrees"
+}

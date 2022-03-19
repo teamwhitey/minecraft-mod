@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EnderButton"
+      },
+      {
+        "value": "CUSTOM:MagicButton"
+      },
+      {
+        "value": "CUSTOM:DragonButton"
+      },
+      {
+        "value": "CUSTOM:SunButton"
+      },
+      {
+        "value": "CUSTOM:WaterButton"
+      },
+      {
+        "value": "CUSTOM:EndtachaButton"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "buttons",
+    "namespace": "forge"
+  }
+}

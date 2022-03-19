@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:endernylum"
+    },
+    "title": {
+      "translate": "advancements.betterend.title"
+    },
+    "description": {
+      "translate": "advancements.betterend.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "betterend": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "better_end:ender"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:aftertheend"
+}

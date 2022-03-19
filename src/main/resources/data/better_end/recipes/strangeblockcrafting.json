@@ -1,0 +1,42 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:furnace"
+    },
+    "1": {
+      "item": "minecraft:experience_bottle"
+    },
+    "2": {
+      "item": "minecraft:furnace"
+    },
+    "3": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "4": {
+      "item": "better_end:ender_planks"
+    },
+    "5": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "6": {
+      "item": "minecraft:furnace"
+    },
+    "7": {
+      "item": "minecraft:diamond_block"
+    },
+    "8": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "better_end:strangeblock",
+    "count": 1
+  }
+}

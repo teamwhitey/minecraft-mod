@@ -1,0 +1,42 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:ender_planks"
+    },
+    "1": {
+      "item": "better_end:ender_planks"
+    },
+    "2": {
+      "item": "better_end:ender_planks"
+    },
+    "3": {
+      "item": "better_end:ender_planks"
+    },
+    "4": {
+      "item": "better_end:dragoncharge"
+    },
+    "5": {
+      "item": "better_end:ender_planks"
+    },
+    "6": {
+      "item": "better_end:ender_planks"
+    },
+    "7": {
+      "item": "better_end:ender_planks"
+    },
+    "8": {
+      "item": "better_end:ender_planks"
+    }
+  },
+  "result": {
+    "item": "better_end:endertnt",
+    "count": 4
+  }
+}

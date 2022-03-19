@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "better_end:blocks/enderlands_ore",
+    "particle": "better_end:blocks/enderlands_ore"
+  }
+}

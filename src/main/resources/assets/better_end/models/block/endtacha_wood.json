@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "better_end:blocks/endtacha_log_side",
+    "particle": "better_end:blocks/endtacha_log_side"
+  }
+}

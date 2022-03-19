@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:enderite_block"
+    },
+    "title": {
+      "translate": "advancements.thetheroyofevrything.title"
+    },
+    "description": {
+      "translate": "advancements.thetheroyofevrything.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thetheroyofevrything": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "better_end:enderite_block"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:ingots"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "better_end:block/dragon_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "better_end:block/dragon_log"
+    },
+    "axis=z": {
+      "model": "better_end:block/dragon_log",
+      "x": 90
+    }
+  }
+}

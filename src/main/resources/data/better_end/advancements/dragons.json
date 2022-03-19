@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:dragonnylim"
+    },
+    "title": {
+      "translate": "advancements.dragons.title"
+    },
+    "description": {
+      "translate": "advancements.dragons.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dragons": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "better_end:dragon"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:thisismagic"
+}

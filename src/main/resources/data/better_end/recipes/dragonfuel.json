@@ -1,0 +1,16 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_end:strangeblock"
+    },
+    {
+      "item": "better_end:ender_button"
+    }
+  ],
+  "result": {
+    "item": "better_end:dragoncharge",
+    "count": 4
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "better_end:ender_button",
+    "better_end:magic_button",
+    "better_end:dragon_button",
+    "better_end:sun_button",
+    "better_end:water_button",
+    "better_end:endtacha_button"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "better_end:block/magic_slab"
+    },
+    "type=top": {
+      "model": "better_end:block/magic_slab_top"
+    },
+    "type=double": {
+      "model": "better_end:block/magic_slab_full"
+    }
+  }
+}

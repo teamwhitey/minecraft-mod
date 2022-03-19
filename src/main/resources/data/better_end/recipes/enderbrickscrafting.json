@@ -1,0 +1,26 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:cobboledendstone"
+    },
+    "1": {
+      "item": "better_end:cobboledendstone"
+    },
+    "2": {
+      "item": "better_end:cobboledendstone"
+    },
+    "3": {
+      "item": "better_end:cobboledendstone"
+    }
+  },
+  "result": {
+    "item": "better_end:enderbricks",
+    "count": 1
+  }
+}

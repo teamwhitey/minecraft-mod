@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:EnderLeaves"
+      },
+      {
+        "value": "CUSTOM:MagicLeaves"
+      },
+      {
+        "value": "CUSTOM:DragonLeaves"
+      },
+      {
+        "value": "CUSTOM:SunLeaves"
+      },
+      {
+        "value": "CUSTOM:WaterLeaves"
+      },
+      {
+        "value": "CUSTOM:EndtachaLeaves"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

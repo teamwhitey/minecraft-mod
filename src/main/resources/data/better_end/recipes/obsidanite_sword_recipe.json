@@ -1,0 +1,24 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "1": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "better_end:obsidanite_sword",
+    "count": 1
+  }
+}

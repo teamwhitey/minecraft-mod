@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "better_end:ender_fence",
+    "better_end:magic_fence",
+    "better_end:dragon_fence",
+    "better_end:sun_fence",
+    "better_end:water_fence",
+    "better_end:endtacha_fence"
+  ]
+}

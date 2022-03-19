@@ -1,0 +1,3640 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EnderiteIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ingot"
+    },
+    {
+      "name": "EnderiteOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ore"
+    },
+    {
+      "name": "EnderiteBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_block"
+    },
+    {
+      "name": "EnderiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ore_block_recipe"
+    },
+    {
+      "name": "EnderiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_block_ore_recipe"
+    },
+    {
+      "name": "EnderiteOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_ore_smelting"
+    },
+    {
+      "name": "EnderitePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_pickaxe"
+    },
+    {
+      "name": "EnderiteAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_axe"
+    },
+    {
+      "name": "EnderiteSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_sword"
+    },
+    {
+      "name": "EnderiteShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_shovel"
+    },
+    {
+      "name": "EnderiteHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_hoe"
+    },
+    {
+      "name": "EnderitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_pickaxe_recipe"
+    },
+    {
+      "name": "EnderiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_axe_recipe"
+    },
+    {
+      "name": "EnderiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_sword_recipe"
+    },
+    {
+      "name": "EnderiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_shovel_recipe"
+    },
+    {
+      "name": "EnderiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_hoe_recipe"
+    },
+    {
+      "name": "EnderiteArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_helmet_recipe"
+    },
+    {
+      "name": "EnderiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_body_recipe"
+    },
+    {
+      "name": "EnderiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_leggings_recipe"
+    },
+    {
+      "name": "EnderiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite_armor_boots_recipe"
+    },
+    {
+      "name": "Cobboledendstone",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstone"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fence_blocks"
+    },
+    {
+      "name": "WoodenFenceBlocks",
+      "type": "tag",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_fence_blocks"
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beacon_base_block_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "DragonImmuneBlocks",
+      "type": "tag",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_immune_blocks"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "EnderWood",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_wood"
+    },
+    {
+      "name": "EnderLog",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_log"
+    },
+    {
+      "name": "EnderPlanks",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_planks"
+    },
+    {
+      "name": "EnderLeaves",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_leaves"
+    },
+    {
+      "name": "EnderStairs",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stairs"
+    },
+    {
+      "name": "EnderSlab",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_slab"
+    },
+    {
+      "name": "EnderFence",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence"
+    },
+    {
+      "name": "EnderFenceGate",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence_gate"
+    },
+    {
+      "name": "EnderPressurePlate",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pressure_plate"
+    },
+    {
+      "name": "EnderButton",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_button"
+    },
+    {
+      "name": "EnderItemsTag",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_items_tag"
+    },
+    {
+      "name": "EnderWoodRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_wood_recipe"
+    },
+    {
+      "name": "EnderPlanksRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_planks_recipe"
+    },
+    {
+      "name": "EnderStairsRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stairs_recipe"
+    },
+    {
+      "name": "EnderSlabRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_slab_recipe"
+    },
+    {
+      "name": "EnderFenceRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence_recipe"
+    },
+    {
+      "name": "EnderFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence_gate_recipe"
+    },
+    {
+      "name": "EnderPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pressure_plate_recipe"
+    },
+    {
+      "name": "EnderButtonRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_button_recipe"
+    },
+    {
+      "name": "EnderStickRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stick_recipe"
+    },
+    {
+      "name": "Enderforest",
+      "type": "biome",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderforest"
+    },
+    {
+      "name": "Ender",
+      "type": "dimension",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Strangeblock",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strangeblock"
+    },
+    {
+      "name": "Strangeblockcrafting",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strangeblockcrafting"
+    },
+    {
+      "name": "Endernylum",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endernylum"
+    },
+    {
+      "name": "MagicWood",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_wood"
+    },
+    {
+      "name": "MagicLog",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_log"
+    },
+    {
+      "name": "MagicPlanks",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_planks"
+    },
+    {
+      "name": "MagicLeaves",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_leaves"
+    },
+    {
+      "name": "MagicStairs",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_stairs"
+    },
+    {
+      "name": "MagicSlab",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_slab"
+    },
+    {
+      "name": "MagicFence",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_fence"
+    },
+    {
+      "name": "MagicFenceGate",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_fence_gate"
+    },
+    {
+      "name": "MagicPressurePlate",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_pressure_plate"
+    },
+    {
+      "name": "MagicButton",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_button"
+    },
+    {
+      "name": "MagicItemsTag",
+      "type": "tag",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_items_tag"
+    },
+    {
+      "name": "MagicWoodRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_wood_recipe"
+    },
+    {
+      "name": "MagicPlanksRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_planks_recipe"
+    },
+    {
+      "name": "MagicStairsRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_stairs_recipe"
+    },
+    {
+      "name": "MagicSlabRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_slab_recipe"
+    },
+    {
+      "name": "MagicFenceRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_fence_recipe"
+    },
+    {
+      "name": "MagicFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_fence_gate_recipe"
+    },
+    {
+      "name": "MagicPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_pressure_plate_recipe"
+    },
+    {
+      "name": "MagicButtonRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_button_recipe"
+    },
+    {
+      "name": "MagicStickRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_stick_recipe"
+    },
+    {
+      "name": "Magucnylum",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magucnylum"
+    },
+    {
+      "name": "Magicforest",
+      "type": "biome",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicforest"
+    },
+    {
+      "name": "CobboledendstonetoolsPickaxe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_pickaxe"
+    },
+    {
+      "name": "CobboledendstonetoolsAxe",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_axe"
+    },
+    {
+      "name": "CobboledendstonetoolsSword",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_sword"
+    },
+    {
+      "name": "CobboledendstonetoolsShovel",
+      "type": "tool",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_shovel"
+    },
+    {
+      "name": "CobboledendstonetoolsHoe",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_hoe"
+    },
+    {
+      "name": "CobboledendstonetoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_pickaxe_recipe"
+    },
+    {
+      "name": "CobboledendstonetoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_axe_recipe"
+    },
+    {
+      "name": "CobboledendstonetoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_sword_recipe"
+    },
+    {
+      "name": "CobboledendstonetoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_shovel_recipe"
+    },
+    {
+      "name": "CobboledendstonetoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboledendstonetools_hoe_recipe"
+    },
+    {
+      "name": "Enderainium",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium"
+    },
+    {
+      "name": "EnderainiumOre",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_ore"
+    },
+    {
+      "name": "EnderainiumBlock",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_block"
+    },
+    {
+      "name": "EnderainiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_ore_block_recipe"
+    },
+    {
+      "name": "EnderainiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_block_ore_recipe"
+    },
+    {
+      "name": "EnderainiumOreSmelting",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_ore_smelting"
+    },
+    {
+      "name": "EnderainiumPickaxe",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_pickaxe"
+    },
+    {
+      "name": "EnderainiumAxe",
+      "type": "tool",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_axe"
+    },
+    {
+      "name": "EnderainiumSword",
+      "type": "tool",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_sword"
+    },
+    {
+      "name": "EnderainiumShovel",
+      "type": "tool",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_shovel"
+    },
+    {
+      "name": "EnderainiumHoe",
+      "type": "tool",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_hoe"
+    },
+    {
+      "name": "EnderainiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_pickaxe_recipe"
+    },
+    {
+      "name": "EnderainiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_axe_recipe"
+    },
+    {
+      "name": "EnderainiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_sword_recipe"
+    },
+    {
+      "name": "EnderainiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_shovel_recipe"
+    },
+    {
+      "name": "EnderainiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_hoe_recipe"
+    },
+    {
+      "name": "EnderainiumArmor",
+      "type": "armor",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderainiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_armor_helmet_recipe"
+    },
+    {
+      "name": "EnderainiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_armor_body_recipe"
+    },
+    {
+      "name": "EnderainiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_armor_leggings_recipe"
+    },
+    {
+      "name": "EnderainiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainium_armor_boots_recipe"
+    },
+    {
+      "name": "Igniterrecipie",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "igniterrecipie"
+    },
+    {
+      "name": "Betterend",
+      "type": "achievement",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "betterend"
+    },
+    {
+      "name": "Punchingendertrees",
+      "type": "achievement",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "punchingendertrees"
+    },
+    {
+      "name": "Cobbolestone",
+      "type": "achievement",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbolestone"
+    },
+    {
+      "name": "Enderainiumadvancement",
+      "type": "achievement",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderainiumadvancement"
+    },
+    {
+      "name": "Thearmoroftheend",
+      "type": "achievement",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thearmoroftheend"
+    },
+    {
+      "name": "Thisismagic",
+      "type": "achievement",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thisismagic"
+    },
+    {
+      "name": "Enderforestbiome",
+      "type": "achievement",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderforestbiome"
+    },
+    {
+      "name": "Cobboleup",
+      "type": "achievement",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobboleup"
+    },
+    {
+      "name": "Aftertheend",
+      "type": "achievement",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aftertheend"
+    },
+    {
+      "name": "ENDERITE",
+      "type": "achievement",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderite"
+    },
+    {
+      "name": "Blockofit",
+      "type": "achievement",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockofit"
+    },
+    {
+      "name": "Ingots",
+      "type": "achievement",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingots"
+    },
+    {
+      "name": "Thebestarmor",
+      "type": "achievement",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thebestarmor"
+    },
+    {
+      "name": "Thetheroyofevrything",
+      "type": "achievement",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thetheroyofevrything"
+    },
+    {
+      "name": "Thisisstrange",
+      "type": "achievement",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thisisstrange"
+    },
+    {
+      "name": "Enderstone",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderstone"
+    },
+    {
+      "name": "DragonWood",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_wood"
+    },
+    {
+      "name": "DragonLog",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_log"
+    },
+    {
+      "name": "DragonPlanks",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_planks"
+    },
+    {
+      "name": "DragonLeaves",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_leaves"
+    },
+    {
+      "name": "DragonStairs",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_stairs"
+    },
+    {
+      "name": "DragonSlab",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_slab"
+    },
+    {
+      "name": "DragonFence",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_fence"
+    },
+    {
+      "name": "DragonFenceGate",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_fence_gate"
+    },
+    {
+      "name": "DragonPressurePlate",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_pressure_plate"
+    },
+    {
+      "name": "DragonButton",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_button"
+    },
+    {
+      "name": "DragonItemsTag",
+      "type": "tag",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_items_tag"
+    },
+    {
+      "name": "DragonWoodRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_wood_recipe"
+    },
+    {
+      "name": "DragonPlanksRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_planks_recipe"
+    },
+    {
+      "name": "DragonStairsRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_stairs_recipe"
+    },
+    {
+      "name": "DragonSlabRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_slab_recipe"
+    },
+    {
+      "name": "DragonFenceRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_fence_recipe"
+    },
+    {
+      "name": "DragonFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_fence_gate_recipe"
+    },
+    {
+      "name": "DragonPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_pressure_plate_recipe"
+    },
+    {
+      "name": "DragonButtonRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_button_recipe"
+    },
+    {
+      "name": "DragonStickRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_stick_recipe"
+    },
+    {
+      "name": "Dragonnylim",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonnylim"
+    },
+    {
+      "name": "Dragon",
+      "type": "biome",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon"
+    },
+    {
+      "name": "Dragons",
+      "type": "achievement",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragons"
+    },
+    {
+      "name": "Enderfood",
+      "type": "food",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderfood"
+    },
+    {
+      "name": "Enderfoodcrafting",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderfoodcrafting"
+    },
+    {
+      "name": "Endergate",
+      "type": "structure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endergate"
+    },
+    {
+      "name": "Enderplant",
+      "type": "plant",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderplant"
+    },
+    {
+      "name": "Magicplant",
+      "type": "plant",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicplant"
+    },
+    {
+      "name": "Dragonfern",
+      "type": "plant",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonfern"
+    },
+    {
+      "name": "Coboledobsidan",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coboledobsidan"
+    },
+    {
+      "name": "Obsidantowers",
+      "type": "biome",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidantowers"
+    },
+    {
+      "name": "Obsidantower",
+      "type": "structure",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidantower"
+    },
+    {
+      "name": "Endchanting",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endchanting"
+    },
+    {
+      "name": "Endruin",
+      "type": "structure",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endruin"
+    },
+    {
+      "name": "Farmhouse",
+      "type": "structure",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "farmhouse"
+    },
+    {
+      "name": "Enderslimeball",
+      "type": "item",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderslimeball"
+    },
+    {
+      "name": "Enderslime",
+      "type": "livingentity",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderslime"
+    },
+    {
+      "name": "Hauntedeffect",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hauntedeffect",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grassspreadingmagic",
+      "type": "procedure",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grassspreadingmagic",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dragongrassspreading",
+      "type": "procedure",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragongrassspreading",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Superenderslime",
+      "type": "livingentity",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "superenderslime"
+    },
+    {
+      "name": "Endergatepainting",
+      "type": "painting",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endergatepainting"
+    },
+    {
+      "name": "Enderhouse",
+      "type": "structure",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderhouse"
+    },
+    {
+      "name": "Enderbricks",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderbricks"
+    },
+    {
+      "name": "Furnacecrafting2",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furnacecrafting_2"
+    },
+    {
+      "name": "Enderbrickscrafting",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderbrickscrafting"
+    },
+    {
+      "name": "HauntedOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haunted_on_effect_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HauntedEffectStartedapplied",
+      "type": "procedure",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haunted_effect_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Haunted",
+      "type": "potioneffect",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haunted"
+    },
+    {
+      "name": "Whenitemtaken",
+      "type": "procedure",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whenitemtaken",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Trade",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trade",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Displaiyif",
+      "type": "procedure",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "displaiyif",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Tradeblockgui",
+      "type": "gui",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tradeblockgui"
+    },
+    {
+      "name": "Tradeblock",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tradeblock"
+    },
+    {
+      "name": "Endwater",
+      "type": "fluid",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endwater",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Dragoncharge",
+      "type": "item",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragoncharge"
+    },
+    {
+      "name": "Dragonchargefuel",
+      "type": "fuel",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonchargefuel"
+    },
+    {
+      "name": "Whitestonegem",
+      "type": "item",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whitestonegem"
+    },
+    {
+      "name": "Whitestone",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_stone"
+    },
+    {
+      "name": "WhitePickaxe",
+      "type": "tool",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_pickaxe"
+    },
+    {
+      "name": "WhiteAxe",
+      "type": "tool",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_axe"
+    },
+    {
+      "name": "WhiteSword",
+      "type": "tool",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_sword"
+    },
+    {
+      "name": "WhiteShovel",
+      "type": "tool",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_shovel"
+    },
+    {
+      "name": "WhiteHoe",
+      "type": "tool",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_hoe"
+    },
+    {
+      "name": "WhitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_pickaxe_recipe"
+    },
+    {
+      "name": "WhiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_axe_recipe"
+    },
+    {
+      "name": "WhiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_sword_recipe"
+    },
+    {
+      "name": "WhiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_shovel_recipe"
+    },
+    {
+      "name": "WhiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_hoe_recipe"
+    },
+    {
+      "name": "Betterendstuff",
+      "type": "tab",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "betterendstuff"
+    },
+    {
+      "name": "Sunnylum",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunnylum"
+    },
+    {
+      "name": "SunWood",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_wood"
+    },
+    {
+      "name": "SunLog",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_log"
+    },
+    {
+      "name": "SunPlanks",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_planks"
+    },
+    {
+      "name": "SunLeaves",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_leaves"
+    },
+    {
+      "name": "SunStairs",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_stairs"
+    },
+    {
+      "name": "SunSlab",
+      "type": "block",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_slab"
+    },
+    {
+      "name": "SunFence",
+      "type": "block",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_fence"
+    },
+    {
+      "name": "SunFenceGate",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_fence_gate"
+    },
+    {
+      "name": "SunPressurePlate",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_pressure_plate"
+    },
+    {
+      "name": "SunButton",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_button"
+    },
+    {
+      "name": "SunItemsTag",
+      "type": "tag",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_items_tag"
+    },
+    {
+      "name": "SunWoodRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_wood_recipe"
+    },
+    {
+      "name": "SunPlanksRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_planks_recipe"
+    },
+    {
+      "name": "SunStairsRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_stairs_recipe"
+    },
+    {
+      "name": "SunSlabRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_slab_recipe"
+    },
+    {
+      "name": "SunFenceRecipe",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_fence_recipe"
+    },
+    {
+      "name": "SunFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_fence_gate_recipe"
+    },
+    {
+      "name": "SunPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_pressure_plate_recipe"
+    },
+    {
+      "name": "SunButtonRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_button_recipe"
+    },
+    {
+      "name": "SunStickRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun_stick_recipe"
+    },
+    {
+      "name": "Sun",
+      "type": "biome",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun"
+    },
+    {
+      "name": "Endersunflower",
+      "type": "plant",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endersunflower"
+    },
+    {
+      "name": "Endercane",
+      "type": "plant",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endercane"
+    },
+    {
+      "name": "Dragonfuel",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragonfuel"
+    },
+    {
+      "name": "Sunny",
+      "type": "achievement",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunny"
+    },
+    {
+      "name": "Sunflowers",
+      "type": "achievement",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunflowers"
+    },
+    {
+      "name": "EndermitenestBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endermitenest_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Endermitenest",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endermitenest"
+    },
+    {
+      "name": "EndertntBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endertnt_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Endertntdetonate",
+      "type": "procedure",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endertntdetonate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Endertnt",
+      "type": "block",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endertnt"
+    },
+    {
+      "name": "Endertntcrafting",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endertntcrafting"
+    },
+    {
+      "name": "WaterWood",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_wood"
+    },
+    {
+      "name": "WaterLog",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_log"
+    },
+    {
+      "name": "WaterPlanks",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_planks"
+    },
+    {
+      "name": "WaterLeaves",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_leaves"
+    },
+    {
+      "name": "WaterStairs",
+      "type": "block",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_stairs"
+    },
+    {
+      "name": "WaterSlab",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_slab"
+    },
+    {
+      "name": "WaterFence",
+      "type": "block",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_fence"
+    },
+    {
+      "name": "WaterFenceGate",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_fence_gate"
+    },
+    {
+      "name": "WaterPressurePlate",
+      "type": "block",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_pressure_plate"
+    },
+    {
+      "name": "WaterButton",
+      "type": "block",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_button"
+    },
+    {
+      "name": "WaterItemsTag",
+      "type": "tag",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_items_tag"
+    },
+    {
+      "name": "WaterWoodRecipe",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_wood_recipe"
+    },
+    {
+      "name": "WaterPlanksRecipe",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_planks_recipe"
+    },
+    {
+      "name": "WaterStairsRecipe",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_stairs_recipe"
+    },
+    {
+      "name": "WaterSlabRecipe",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_slab_recipe"
+    },
+    {
+      "name": "WaterFenceRecipe",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_fence_recipe"
+    },
+    {
+      "name": "WaterFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_fence_gate_recipe"
+    },
+    {
+      "name": "WaterPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_pressure_plate_recipe"
+    },
+    {
+      "name": "WaterButtonRecipe",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_button_recipe"
+    },
+    {
+      "name": "WaterStickRecipe",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_stick_recipe"
+    },
+    {
+      "name": "Waternylim",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waternylim"
+    },
+    {
+      "name": "Enderstonebrick",
+      "type": "block",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderstonebrick"
+    },
+    {
+      "name": "Enderstonebrickcraft",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderstonebrickcraft"
+    },
+    {
+      "name": "Water",
+      "type": "biome",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water"
+    },
+    {
+      "name": "Waternow",
+      "type": "achievement",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waternow"
+    },
+    {
+      "name": "Shuklershell",
+      "type": "item",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shuklershell"
+    },
+    {
+      "name": "Shuklergui",
+      "type": "gui",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shuklergui"
+    },
+    {
+      "name": "Shuklerblox",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shuklerblox"
+    },
+    {
+      "name": "Endruinloot",
+      "type": "loottable",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endruinloot"
+    },
+    {
+      "name": "Blocking",
+      "type": "enchantment",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocking"
+    },
+    {
+      "name": "Enderhills",
+      "type": "biome",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderhills"
+    },
+    {
+      "name": "Endsanddust",
+      "type": "item",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsanddust"
+    },
+    {
+      "name": "Endsand",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsand"
+    },
+    {
+      "name": "Endsandcraft",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsandcraft"
+    },
+    {
+      "name": "Endsandparticle",
+      "type": "particle",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsandparticle"
+    },
+    {
+      "name": "Enddesert",
+      "type": "biome",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enddesert"
+    },
+    {
+      "name": "EndtachaWood",
+      "type": "block",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_wood"
+    },
+    {
+      "name": "EndtachaLog",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_log"
+    },
+    {
+      "name": "EndtachaPlanks",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_planks"
+    },
+    {
+      "name": "EndtachaLeaves",
+      "type": "block",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_leaves"
+    },
+    {
+      "name": "EndtachaStairs",
+      "type": "block",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_stairs"
+    },
+    {
+      "name": "EndtachaSlab",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_slab"
+    },
+    {
+      "name": "EndtachaFence",
+      "type": "block",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_fence"
+    },
+    {
+      "name": "EndtachaFenceGate",
+      "type": "block",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_fence_gate"
+    },
+    {
+      "name": "EndtachaPressurePlate",
+      "type": "block",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_pressure_plate"
+    },
+    {
+      "name": "EndtachaButton",
+      "type": "block",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_button"
+    },
+    {
+      "name": "EndtachaItemsTag",
+      "type": "tag",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_items_tag"
+    },
+    {
+      "name": "EndtachaWoodRecipe",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_wood_recipe"
+    },
+    {
+      "name": "EndtachaPlanksRecipe",
+      "type": "recipe",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_planks_recipe"
+    },
+    {
+      "name": "EndtachaStairsRecipe",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_stairs_recipe"
+    },
+    {
+      "name": "EndtachaSlabRecipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_slab_recipe"
+    },
+    {
+      "name": "EndtachaFenceRecipe",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_fence_recipe"
+    },
+    {
+      "name": "EndtachaFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_fence_gate_recipe"
+    },
+    {
+      "name": "EndtachaPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_pressure_plate_recipe"
+    },
+    {
+      "name": "EndtachaButtonRecipe",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_button_recipe"
+    },
+    {
+      "name": "EndtachaStickRecipe",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtacha_stick_recipe"
+    },
+    {
+      "name": "Endtachaspawner",
+      "type": "structure",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endtachaspawner"
+    },
+    {
+      "name": "Enderdesertstuff",
+      "type": "tab",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderdesertstuff"
+    },
+    {
+      "name": "Enderdesert",
+      "type": "dimension",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderdesert",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Tde",
+      "type": "achievement",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tde"
+    },
+    {
+      "name": "EnderlandsIngot",
+      "type": "item",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_ingot"
+    },
+    {
+      "name": "EnderlandsOre",
+      "type": "block",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_ore"
+    },
+    {
+      "name": "EnderlandsBlock",
+      "type": "block",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_block"
+    },
+    {
+      "name": "EnderlandsOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_ore_block_recipe"
+    },
+    {
+      "name": "EnderlandsBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_block_ore_recipe"
+    },
+    {
+      "name": "EnderlandsOreSmelting",
+      "type": "recipe",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_ore_smelting"
+    },
+    {
+      "name": "EnderlandsPickaxe",
+      "type": "tool",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_pickaxe"
+    },
+    {
+      "name": "EnderlandsAxe",
+      "type": "tool",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_axe"
+    },
+    {
+      "name": "EnderlandsSword",
+      "type": "tool",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_sword"
+    },
+    {
+      "name": "EnderlandsShovel",
+      "type": "tool",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_shovel"
+    },
+    {
+      "name": "EnderlandsHoe",
+      "type": "tool",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_hoe"
+    },
+    {
+      "name": "EnderlandsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_pickaxe_recipe"
+    },
+    {
+      "name": "EnderlandsAxeRecipe",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_axe_recipe"
+    },
+    {
+      "name": "EnderlandsSwordRecipe",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_sword_recipe"
+    },
+    {
+      "name": "EnderlandsShovelRecipe",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_shovel_recipe"
+    },
+    {
+      "name": "EnderlandsHoeRecipe",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_hoe_recipe"
+    },
+    {
+      "name": "EnderlandsArmor",
+      "type": "armor",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderlandsArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_armor_helmet_recipe"
+    },
+    {
+      "name": "EnderlandsArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_armor_body_recipe"
+    },
+    {
+      "name": "EnderlandsArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_armor_leggings_recipe"
+    },
+    {
+      "name": "EnderlandsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderlands_armor_boots_recipe"
+    },
+    {
+      "name": "Buttons",
+      "type": "tag",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buttons"
+    },
+    {
+      "name": "Craftingnewdiminsion",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftingnewdiminsion"
+    },
+    {
+      "name": "Redgem",
+      "type": "item",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redgem"
+    },
+    {
+      "name": "Obsidaniteingot",
+      "type": "item",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidaniteingot"
+    },
+    {
+      "name": "Obsidanite_armorArmor",
+      "type": "armor",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Obsidanite_armorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "Obsidanite_armorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_armor_armor_body_recipe"
+    },
+    {
+      "name": "Obsidanite_armorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "Obsidanite_armorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_armor_armor_boots_recipe"
+    },
+    {
+      "name": "ObsidanitePickaxe",
+      "type": "tool",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_pickaxe"
+    },
+    {
+      "name": "ObsidaniteAxe",
+      "type": "tool",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_axe"
+    },
+    {
+      "name": "ObsidaniteSword",
+      "type": "tool",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_sword"
+    },
+    {
+      "name": "ObsidaniteShovel",
+      "type": "tool",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_shovel"
+    },
+    {
+      "name": "ObsidaniteHoe",
+      "type": "tool",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_hoe"
+    },
+    {
+      "name": "ObsidanitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_pickaxe_recipe"
+    },
+    {
+      "name": "ObsidaniteAxeRecipe",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_axe_recipe"
+    },
+    {
+      "name": "ObsidaniteSwordRecipe",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_sword_recipe"
+    },
+    {
+      "name": "ObsidaniteShovelRecipe",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_shovel_recipe"
+    },
+    {
+      "name": "ObsidaniteHoeRecipe",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite_hoe_recipe"
+    },
+    {
+      "name": "Redgemcrafting",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redgemcrafting"
+    },
+    {
+      "name": "Reinforced_enderiteIngot",
+      "type": "item",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_ingot"
+    },
+    {
+      "name": "Reinforced_enderiteBlock",
+      "type": "block",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_block"
+    },
+    {
+      "name": "Reinforced_enderiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_ore_block_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_block_ore_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteOreSmelting",
+      "type": "recipe",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_ore_smelting"
+    },
+    {
+      "name": "Reinforced_enderitePickaxe",
+      "type": "tool",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_pickaxe"
+    },
+    {
+      "name": "Reinforced_enderiteAxe",
+      "type": "tool",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_axe"
+    },
+    {
+      "name": "Reinforced_enderiteSword",
+      "type": "tool",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_sword"
+    },
+    {
+      "name": "Reinforced_enderiteShovel",
+      "type": "tool",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_shovel"
+    },
+    {
+      "name": "Reinforced_enderiteHoe",
+      "type": "tool",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_hoe"
+    },
+    {
+      "name": "Reinforced_enderitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_pickaxe_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_axe_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_sword_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_shovel_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_hoe_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteArmor",
+      "type": "armor",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Reinforced_enderiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_armor_helmet_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_armor_body_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_armor_leggings_recipe"
+    },
+    {
+      "name": "Reinforced_enderiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_enderite_armor_boots_recipe"
+    },
+    {
+      "name": "Obsidanite",
+      "type": "recipe",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidanite"
+    },
+    {
+      "name": "Enderclayball",
+      "type": "item",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderclayball"
+    },
+    {
+      "name": "Enderclay",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderclay"
+    },
+    {
+      "name": "Enderbrick",
+      "type": "item",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderbrick"
+    },
+    {
+      "name": "Enderclaysmelt",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderclaysmelt"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.better_end.magic_log": "Magic Log",
+      "advancements.thebestarmor.title": "The best armor",
+      "block.better_end.ender_log": "Ender Log",
+      "block.better_end.sun_slab": "Sun Slab",
+      "advancements.betterend.descr": "4",
+      "item.better_end.reinforced_enderite_pickaxe": "Reinforced_enderite Pickaxe",
+      "block.better_end.enderlands_block": "Block of Enderlands",
+      "block.better_end.water_log": "Water Log",
+      "block.better_end.shuklerblox": "Shuklerblox",
+      "block.better_end.endercane": "Endercane",
+      "block.better_end.magic_stairs": "Magic Stairs",
+      "item.better_end.enderite_pickaxe": "Enderite Pickaxe",
+      "block.better_end.enderbricks": "Enderbricks",
+      "block.better_end.dragon_slab": "Dragon Slab",
+      "block.better_end.magic_button": "Magic Button",
+      "biome.better_end.dragon": "Dragon",
+      "advancements.blockofit.descr": "place a enderainum block",
+      "block.better_end.cobboledendstone": "Cobbled end stone",
+      "block.better_end.enderclay": "Enderclay",
+      "advancements.cobbolestone.descr": "this is great to have backup tools",
+      "advancements.waternow.title": "Water now",
+      "item.better_end.superenderslime_spawn_egg": "Super ender slime Spawn Egg",
+      "biome.better_end.enderforest": "Ender forest",
+      "advancements.cobboleup.title": "Cobble up",
+      "item.better_end.enderdesert": "ender pearl with button on it",
+      "entity.better_end.enderslime": "Enderslime",
+      "entity.better_end.superenderslime": "Super ender slime",
+      "block.better_end.ender_pressure_plate": "Ender Pressure Plate",
+      "advancements.enderite.title": "ENDERITE!",
+      "block.better_end.sun_fence_gate": "Sun Fence Gate",
+      "item.better_end.enderainium_shovel": "Enderainium Shovel",
+      "item.better_end.cobboledendstonetools_pickaxe": "Cobbled end stone Pickaxe",
+      "block.better_end.enderplant": "Ender plant",
+      "advancements.thisismagic.descr": "enter a magic biome",
+      "item.better_end.endsanddust": "End sand dust",
+      "advancements.thearmoroftheend.title": "The armor of the end",
+      "block.better_end.dragon_wood": "Dragon Wood",
+      "block.better_end.ender_button": "Ender Button",
+      "itemGroup.tabenderdesertstuff": "Ender desert diminsion things",
+      "item.better_end.white_pickaxe": "White Pickaxe",
+      "advancements.punchingendertrees.descr": "this place has wood?",
+      "item.better_end.enderlands_shovel": "Enderlands Shovel",
+      "block.better_end.endtacha_wood": "Endtacha Wood",
+      "block.better_end.endernylum": "Ender nylum",
+      "block.better_end.sun_fence": "Sun Fence",
+      "block.better_end.ender_stairs": "Ender Stairs",
+      "item.better_end.cobboledendstonetools_shovel": "Cobbled end stone Shovel",
+      "advancements.ingots.descr": "get enderite ingot",
+      "item.better_end.enderbrick": "Enderbrick",
+      "advancements.tde.title": "the dry end",
+      "item.better_end.endwater_bucket": "Endwater Bucket",
+      "item.better_end.white_hoe": "White Hoe",
+      "block.better_end.sun_wood": "Sun Wood",
+      "advancements.thebestarmor.descr": "better then netherite",
+      "item.better_end.enderlands_ingot": "Enderlands ingot",
+      "item.better_end.cobboledendstonetools_sword": "Cobbled end stone Sword",
+      "block.better_end.magic_pressure_plate": "Magic Pressure Plate",
+      "item.better_end.enderlands_hoe": "Enderlands Hoe",
+      "block.better_end.strangeblock": "Strangeblock",
+      "block.better_end.dragon_fence_gate": "Dragon Fence Gate",
+      "item.better_end.obsidanite_hoe": "Obsidanite Hoe",
+      "advancements.thearmoroftheend.descr": "dumb cobblestone",
+      "block.better_end.endtacha_log": "Endtacha Log",
+      "block.better_end.magicplant": "Magic plant",
+      "block.better_end.enderainium_block": "Block of Enderainium",
+      "block.better_end.sun_stairs": "Sun Stairs",
+      "advancements.enderforestbiome.title": "Ender forests",
+      "item.better_end.enderainium_armor_chestplate": "Enderainium Chestplate",
+      "biome.better_end.obsidantowers": "Obsidantowers",
+      "advancements.sunny.title": "Sunny",
+      "item.better_end.obsidaniteingot": "Obsidanite ingot",
+      "block.better_end.enderstone": "Enderstone",
+      "block.better_end.dragon_log": "Dragon Log",
+      "block.better_end.water_slab": "Water Slab",
+      "item.better_end.enderite_shovel": "Enderite Shovel",
+      "advancements.dragons.title": "Dragons",
+      "biome.better_end.enderhills": "Ender hills",
+      "item.better_end.enderite_armor_helmet": "Enderite Helmet",
+      "item.better_end.enderainium": "Enderainium",
+      "item.better_end.cobboledendstonetools_axe": "Cobbled end stone Axe",
+      "block.better_end.endermitenest": "Endermitenest",
+      "block.better_end.enderlands_ore": "Enderlands Ore",
+      "block.better_end.sun_button": "Sun Button",
+      "block.better_end.endtacha_slab": "Endtacha Slab",
+      "block.better_end.dragon_planks": "Dragon Planks",
+      "item.better_end.redgem": "Red gem",
+      "block.better_end.endtacha_fence_gate": "Endtacha Fence Gate",
+      "block.better_end.ender_wood": "Ender Wood",
+      "item.better_end.enderainium_sword": "Enderainium Sword",
+      "item.better_end.enderslimeball": "Ender slime ball",
+      "block.better_end.magic_planks": "Magic Planks",
+      "block.better_end.water_pressure_plate": "Water Pressure Plate",
+      "item.better_end.enderainium_hoe": "Enderainium Hoe",
+      "block.better_end.ender_leaves": "Ender Leaves",
+      "item.better_end.enderlands_armor_boots": "Enderlands Boots",
+      "advancements.betterend.title": "Better end",
+      "item.better_end.reinforced_enderite_axe": "Reinforced_enderite Axe",
+      "block.better_end.endersunflower": "Ender sunflower",
+      "block.better_end.ender_fence_gate": "Ender Fence Gate",
+      "item.better_end.enderslime_spawn_egg": "Enderslime Spawn Egg",
+      "advancements.cobbolestone.title": "Cobblestone",
+      "item.better_end.white_shovel": "White Shovel",
+      "block.better_end.magucnylum": "Magic nylum",
+      "item.better_end.enderclayball": "Ender clay ball",
+      "item.better_end.enderainium_armor_boots": "Enderainium Boots",
+      "block.better_end.water_wood": "Water Wood",
+      "item.better_end.enderite_hoe": "Enderite Hoe",
+      "item.better_end.enderite_armor_leggings": "Enderite Leggings",
+      "block.better_end.sun_planks": "Sun Planks",
+      "block.better_end.enderite_block": "Block of Enderite",
+      "advancements.punchingendertrees.title": "Punching ender trees",
+      "block.better_end.dragon_button": "Dragon Button",
+      "advancements.tde.descr": "another end without islands",
+      "block.better_end.magic_slab": "Magic Slab",
+      "advancements.aftertheend.descr": "craft a ender igniter",
+      "item.better_end.reinforced_enderite_armor_chestplate": "Reinforced_enderite Chestplate",
+      "fluid.better_end.endwater": "Ender water",
+      "block.better_end.dragonnylim": "Dragon nylim",
+      "block.better_end.endtacha_leaves": "Endtacha Leaves",
+      "item.better_end.reinforced_enderite_armor_leggings": "Reinforced_enderite Leggings",
+      "advancements.enderainiumadvancement.descr": "iron?",
+      "item.better_end.whitestonegem": "White stone gem",
+      "advancements.sunflowers.descr": "this place is cool",
+      "block.better_end.magic_leaves": "Magic Leaves",
+      "item.better_end.enderainium_pickaxe": "Enderainium Pickaxe",
+      "item.better_end.enderainium_armor_leggings": "Enderainium Leggings",
+      "item.better_end.enderlands_armor_leggings": "Enderlands Leggings",
+      "advancements.ingots.title": "Ingots",
+      "block.better_end.water_planks": "Water Planks",
+      "biome.better_end.sun": "Sun",
+      "item.better_end.obsidanite_armor_armor_helmet": "Obsidanite Helmet",
+      "block.better_end.ender_fence": "Ender Fence",
+      "block.better_end.ender_slab": "Ender Slab",
+      "item.better_end.enderlands_pickaxe": "Enderlands Pickaxe",
+      "item.better_end.shuklershell": "Shukler shell",
+      "item.better_end.obsidanite_armor_armor_leggings": "Obsidanite Leggings",
+      "block.better_end.water_leaves": "Water Leaves",
+      "biome.better_end.magicforest": "Magic forest",
+      "item.better_end.enderlands_axe": "Enderlands Axe",
+      "item.better_end.obsidanite_sword": "Obsidanite Sword",
+      "block.better_end.enderite_ore": "Enderite Ore",
+      "block.better_end.enderstonebrick": "Enderstone bricks",
+      "block.better_end.enderainium_ore": "Enderainium Ore",
+      "item.better_end.reinforced_enderite_ingot": "Reinforced_enderite",
+      "item.better_end.reinforced_enderite_sword": "Reinforced_enderite Sword",
+      "advancements.thisisstrange.title": "This is strange",
+      "item.better_end.obsidanite_axe": "Obsidanite Axe",
+      "block.better_end.dragon_fence": "Dragon Fence",
+      "item.better_end.enderite_ingot": "Enderite ingot",
+      "item.better_end.enderainium_armor_helmet": "Enderainium Helmet",
+      "itemGroup.tabbetterendstuff": "ender update",
+      "block.better_end.water_fence_gate": "Water Fence Gate",
+      "biome.better_end.water": "Water",
+      "block.better_end.reinforced_enderite_block": "Block of Reinforced_enderite",
+      "advancements.thisismagic.title": "This is magic",
+      "biome.better_end.enddesert": "End desert",
+      "item.better_end.enderlands_armor_helmet": "Enderlands Helmet",
+      "advancements.cobboleup.descr": "craft a coboled end stone pickaxe",
+      "block.better_end.endtacha_planks": "Endtacha Planks",
+      "advancements.sunflowers.title": "Sunflowers",
+      "advancements.dragons.descr": "?",
+      "effect.haunted": "haunted",
+      "advancements.enderite.descr": "better then netherite",
+      "block.better_end.dragon_stairs": "Dragon Stairs",
+      "block.better_end.endwater": "Ender water",
+      "block.better_end.tradeblock": "Tradeblock",
+      "advancements.thetheroyofevrything.title": "The theory of evrything",
+      "block.better_end.endtacha_pressure_plate": "Endtacha Pressure Plate",
+      "block.better_end.dragonfern": "Dragon fern",
+      "advancements.aftertheend.title": "After the end",
+      "block.better_end.endertnt": "Ender tnt",
+      "block.better_end.sun_pressure_plate": "Sun Pressure Plate",
+      "block.better_end.waternylim": "Water nylim",
+      "block.better_end.magic_wood": "Magic Wood",
+      "block.better_end.dragon_pressure_plate": "Dragon Pressure Plate",
+      "item.better_end.enderlands_armor_chestplate": "Enderlands Chestplate",
+      "item.better_end.cobboledendstonetools_hoe": "Cobbled end stone Hoe",
+      "advancements.waternow.descr": "this end is great",
+      "block.better_end.sun_leaves": "Sun Leaves",
+      "block.better_end.water_stairs": "Water Stairs",
+      "block.better_end.white_stone": "Whitestone",
+      "block.better_end.magic_fence": "Magic Fence",
+      "block.better_end.endtacha_fence": "Endtacha Fence",
+      "advancements.thetheroyofevrything.descr": "the end?",
+      "block.better_end.magic_fence_gate": "Magic Fence Gate",
+      "item.better_end.enderlands_sword": "Enderlands Sword",
+      "block.better_end.sun_log": "Sun Log",
+      "item.better_end.enderainium_axe": "Enderainium Axe",
+      "block.better_end.sunnylum": "Sunnylum",
+      "block.better_end.endsand": "End sand",
+      "item.better_end.enderite_armor_boots": "Enderite Boots",
+      "item.better_end.ender": "ender pearl and steal",
+      "item.better_end.white_sword": "White Sword",
+      "block.better_end.water_button": "Water Button",
+      "item.better_end.reinforced_enderite_armor_boots": "Reinforced_enderite Boots",
+      "block.better_end.dragon_leaves": "Dragon Leaves",
+      "item.better_end.obsidanite_shovel": "Obsidanite Shovel",
+      "enchantment.better_end.blocking": "Blocking",
+      "item.better_end.enderite_armor_chestplate": "Enderite Chestplate",
+      "advancements.blockofit.title": "Block of it",
+      "block.better_end.water_fence": "Water Fence",
+      "item.better_end.white_axe": "White Axe",
+      "item.better_end.obsidanite_armor_armor_boots": "Obsidanite Boots",
+      "advancements.thisisstrange.descr": "place a strange block",
+      "item.better_end.reinforced_enderite_hoe": "Reinforced_enderite Hoe",
+      "item.better_end.enderite_sword": "Enderite Sword",
+      "item.better_end.reinforced_enderite_armor_helmet": "Reinforced_enderite Helmet",
+      "item.better_end.enderfood": "Ender food",
+      "block.better_end.endtacha_stairs": "Endtacha Stairs",
+      "block.better_end.ender_planks": "Ender Planks",
+      "item.better_end.dragoncharge": "Dragoncharge",
+      "block.better_end.endtacha_button": "Endtacha Button",
+      "item.better_end.reinforced_enderite_shovel": "Reinforced_enderite Shovel",
+      "advancements.enderforestbiome.descr": "enter a ender forest",
+      "item.better_end.obsidanite_pickaxe": "Obsidanite Pickaxe",
+      "advancements.enderainiumadvancement.title": "Enderainium?",
+      "block.better_end.coboledobsidan": "Coboled obsidan",
+      "item.better_end.enderite_axe": "Enderite Axe",
+      "item.better_end.obsidanite_armor_armor_chestplate": "Obsidanite Chestplate",
+      "advancements.sunny.descr": "sun in the end"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "better_end",
+    "modName": "The ender update again",
+    "version": "4.0",
+    "description": "A mod that updates the end",
+    "author": "team whitey, MCreator",
+    "websiteURL": "https://mcreator.net/user/675157/team-whitey",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "screen_shot_2022-01-22_at_5.53.44_pm",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.betterend",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

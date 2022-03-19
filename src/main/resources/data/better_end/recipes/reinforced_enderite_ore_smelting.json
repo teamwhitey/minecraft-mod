@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "better_end:enderite_ingot"
+  },
+  "addition": {
+    "item": "better_end:redgem"
+  },
+  "result": {
+    "item": "better_end:reinforced_enderite_ingot"
+  }
+}

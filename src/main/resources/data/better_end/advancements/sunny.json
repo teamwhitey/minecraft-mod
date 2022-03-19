@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:sunnylum"
+    },
+    "title": {
+      "translate": "advancements.sunny.title"
+    },
+    "description": {
+      "translate": "advancements.sunny.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sunny": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "better_end:sun"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:enderforestbiome"
+}

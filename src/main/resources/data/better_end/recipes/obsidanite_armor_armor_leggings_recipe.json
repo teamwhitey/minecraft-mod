@@ -1,0 +1,36 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "1": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "2": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "3": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "5": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "6": {
+      "item": "better_end:obsidaniteingot"
+    },
+    "8": {
+      "item": "better_end:obsidaniteingot"
+    }
+  },
+  "result": {
+    "item": "better_end:obsidanite_armor_armor_leggings",
+    "count": 1
+  }
+}

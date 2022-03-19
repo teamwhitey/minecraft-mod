@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/cobloedobsidan",
+    "up": "better_end:blocks/cobloedobsidan",
+    "north": "better_end:blocks/cobloedobsidan",
+    "east": "better_end:blocks/cobloedobsidan",
+    "south": "better_end:blocks/cobloedobsidan",
+    "west": "better_end:blocks/cobloedobsidan",
+    "particle": "better_end:blocks/cobloedobsidan"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Blocking",
+    "type": "WEAPON",
+    "rarity": "RARE",
+    "minLevel": 1,
+    "maxLevel": 5,
+    "damageModifier": 2,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:EnderiteAxe"
+      },
+      {
+        "value": "CUSTOM:EnderiteSword"
+      },
+      {
+        "value": "CUSTOM:EnderainiumAxe"
+      },
+      {
+        "value": "CUSTOM:EnderainiumSword"
+      },
+      {
+        "value": "CUSTOM:WhiteAxe"
+      },
+      {
+        "value": "CUSTOM:WhiteSword"
+      },
+      {
+        "value": "CUSTOM:CobboledendstonetoolsAxe"
+      },
+      {
+        "value": "CUSTOM:CobboledendstonetoolsSword"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "endergate",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 3000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Ender",
+      "End",
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Endernylum"
+      },
+      {
+        "value": "CUSTOM:Magucnylum"
+      },
+      {
+        "value": "CUSTOM:Dragonnylim"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

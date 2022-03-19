@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:EnderLog"
+      },
+      {
+        "value": "CUSTOM:MagicLog"
+      },
+      {
+        "value": "CUSTOM:DragonLog"
+      },
+      {
+        "value": "CUSTOM:SunLog"
+      },
+      {
+        "value": "CUSTOM:WaterLog"
+      },
+      {
+        "value": "CUSTOM:EndtachaLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

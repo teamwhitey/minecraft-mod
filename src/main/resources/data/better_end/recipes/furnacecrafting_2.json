@@ -1,0 +1,39 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:cobboledendstone"
+    },
+    "1": {
+      "item": "better_end:cobboledendstone"
+    },
+    "2": {
+      "item": "better_end:cobboledendstone"
+    },
+    "3": {
+      "item": "better_end:cobboledendstone"
+    },
+    "5": {
+      "item": "better_end:cobboledendstone"
+    },
+    "6": {
+      "item": "better_end:cobboledendstone"
+    },
+    "7": {
+      "item": "better_end:cobboledendstone"
+    },
+    "8": {
+      "item": "better_end:cobboledendstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

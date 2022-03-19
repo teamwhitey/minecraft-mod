@@ -1,0 +1,39 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:enderainium"
+    },
+    "2": {
+      "item": "better_end:enderainium"
+    },
+    "3": {
+      "item": "better_end:enderainium"
+    },
+    "4": {
+      "item": "better_end:enderainium"
+    },
+    "5": {
+      "item": "better_end:enderainium"
+    },
+    "6": {
+      "item": "better_end:enderainium"
+    },
+    "7": {
+      "item": "better_end:enderainium"
+    },
+    "8": {
+      "item": "better_end:enderainium"
+    }
+  },
+  "result": {
+    "item": "better_end:enderainium_armor_chestplate",
+    "count": 1
+  }
+}

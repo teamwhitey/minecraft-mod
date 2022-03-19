@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "better_end:blocks/magicgrasstop",
+    "particle": "better_end:blocks/magicgrasstop"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EnderPlanks"
+      },
+      {
+        "value": "CUSTOM:MagicPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonPlanks"
+      },
+      {
+        "value": "CUSTOM:SunPlanks"
+      },
+      {
+        "value": "CUSTOM:WaterPlanks"
+      },
+      {
+        "value": "CUSTOM:EndtachaPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

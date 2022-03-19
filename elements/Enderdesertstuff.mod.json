@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Ender desert diminsion things",
+    "icon": {
+      "value": "CUSTOM:Endsanddust"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="better_end"
+version="4.0"
+displayName="The ender update again"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net/user/675157/team-whitey"
+logoFile="logo.png"
+authors="team whitey, MCreator"
+description='''
+A mod that updates the end
+'''
+
+[[dependencies.better_end]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

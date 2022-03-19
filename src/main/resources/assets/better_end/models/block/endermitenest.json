@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/endermite_nest",
+    "up": "better_end:blocks/endermite_nest",
+    "north": "better_end:blocks/endermite_nest",
+    "east": "better_end:blocks/endermite_nest",
+    "south": "better_end:blocks/endermite_nest",
+    "west": "better_end:blocks/endermite_nest",
+    "particle": "better_end:blocks/endermite_nest"
+  }
+}

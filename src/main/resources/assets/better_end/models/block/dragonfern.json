@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "better_end:blocks/dragonfernbotem",
+    "particle": "better_end:blocks/dragonfernbotem"
+  }
+}

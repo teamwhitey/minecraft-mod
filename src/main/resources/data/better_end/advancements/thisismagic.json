@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:magic_log"
+    },
+    "title": {
+      "translate": "advancements.thisismagic.title"
+    },
+    "description": {
+      "translate": "advancements.thisismagic.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thisismagic": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "better_end:magicforest"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:enderforestbiome"
+}

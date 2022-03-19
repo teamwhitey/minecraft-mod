@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "better_end:block/endercane"
+    },
+    "age=1": {
+      "model": "better_end:block/endercane"
+    },
+    "age=2": {
+      "model": "better_end:block/endercane"
+    },
+    "age=3": {
+      "model": "better_end:block/endercane"
+    },
+    "age=4": {
+      "model": "better_end:block/endercane"
+    },
+    "age=5": {
+      "model": "better_end:block/endercane"
+    },
+    "age=6": {
+      "model": "better_end:block/endercane"
+    },
+    "age=7": {
+      "model": "better_end:block/endercane"
+    },
+    "age=8": {
+      "model": "better_end:block/endercane"
+    },
+    "age=9": {
+      "model": "better_end:block/endercane"
+    },
+    "age=10": {
+      "model": "better_end:block/endercane"
+    },
+    "age=11": {
+      "model": "better_end:block/endercane"
+    },
+    "age=12": {
+      "model": "better_end:block/endercane"
+    },
+    "age=13": {
+      "model": "better_end:block/endercane"
+    },
+    "age=14": {
+      "model": "better_end:block/endercane"
+    },
+    "age=15": {
+      "model": "better_end:block/endercane"
+    }
+  }
+}

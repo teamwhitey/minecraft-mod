@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DragonPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DragonPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DragonPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonPlanks"
+      },
+      {
+        "value": "CUSTOM:DragonPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonStairs"
+    },
+    "name": "dragon_stairs_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "better_end:enderainium_block"
+    }
+  ],
+  "result": {
+    "item": "better_end:enderainium",
+    "count": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:endsanddust"
+    },
+    "1": {
+      "item": "better_end:endsanddust"
+    },
+    "2": {
+      "item": "better_end:endsanddust"
+    },
+    "3": {
+      "item": "better_end:endsanddust"
+    }
+  },
+  "result": {
+    "item": "better_end:endsand",
+    "count": 1
+  }
+}

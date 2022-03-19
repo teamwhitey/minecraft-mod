@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "better_end:ender_planks",
+    "better_end:magic_planks",
+    "better_end:dragon_planks",
+    "better_end:sun_planks",
+    "better_end:water_planks",
+    "better_end:endtacha_planks"
+  ]
+}
