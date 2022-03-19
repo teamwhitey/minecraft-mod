@@ -90,6 +90,9 @@
         "value": "CUSTOM:Enderforest"
       }
     ],
-    "patchSize": 64
+    "patchSize": 64,
+    "onDestroyedByPlayer": {
+      "name": "Aplyhuanted"
+    }
   }
 }

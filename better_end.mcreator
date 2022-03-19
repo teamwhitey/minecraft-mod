@@ -3384,6 +3384,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "enderclaysmelt"
+    },
+    {
+      "name": "Aplyhuanted",
+      "type": "procedure",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aplyhuanted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
