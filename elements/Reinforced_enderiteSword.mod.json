@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "reinforced_enderite_sword",
     "customModelName": "Normal",
-    "name": "Reinforced_enderite Sword",
+    "name": "Reinforced enderite Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Betterendstuff"
     },
     "toolType": "Sword",
     "harvestLevel": 8,

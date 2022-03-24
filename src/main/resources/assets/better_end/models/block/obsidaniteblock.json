@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/obsidanite_block",
+    "up": "better_end:blocks/obsidanite_block",
+    "north": "better_end:blocks/obsidanite_block",
+    "east": "better_end:blocks/obsidanite_block",
+    "south": "better_end:blocks/obsidanite_block",
+    "west": "better_end:blocks/obsidanite_block",
+    "particle": "better_end:blocks/obsidanite_block"
+  }
+}

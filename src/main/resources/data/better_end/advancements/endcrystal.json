@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:rainbowcrystal"
+    },
+    "title": {
+      "translate": "advancements.endcrystal.title"
+    },
+    "description": {
+      "translate": "advancements.endcrystal.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "endcrystal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "better_end:rainbowshard",
+            "count": {
+              "min": 1,
+              "max": 10000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:betterend"
+}

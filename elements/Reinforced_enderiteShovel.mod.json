@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "reinforced_enderite_shovel",
     "customModelName": "Normal",
-    "name": "Reinforced_enderite Shovel",
+    "name": "Reinforced enderite Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Betterendstuff"
     },
     "toolType": "Spade",
     "harvestLevel": 8,

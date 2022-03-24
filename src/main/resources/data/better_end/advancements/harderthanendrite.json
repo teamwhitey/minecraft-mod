@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:reinforced_enderite_block"
+    },
+    "title": {
+      "translate": "advancements.harderthanendrite.title"
+    },
+    "description": {
+      "translate": "advancements.harderthanendrite.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "harderthanendrite": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "better_end:reinforced_enderite_block"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:reinforcement"
+}

@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "reinforced_enderite_axe",
     "customModelName": "Normal",
-    "name": "Reinforced_enderite Axe",
+    "name": "Reinforced enderite Axe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Betterendstuff"
     },
     "toolType": "Axe",
     "harvestLevel": 8,

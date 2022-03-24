@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:obsidanite_axe"
+    },
+    "title": {
+      "translate": "advancements.thefastaxe.title"
+    },
+    "description": {
+      "translate": "advancements.thefastaxe.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thefastaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "better_end:obsidanite_axe",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:obsidaniteg"
+}

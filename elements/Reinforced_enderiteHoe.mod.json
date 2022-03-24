@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "reinforced_enderite_hoe",
     "customModelName": "Normal",
-    "name": "Reinforced_enderite Hoe",
+    "name": "Reinforced enderite Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Betterendstuff"
     },
     "toolType": "Hoe",
     "harvestLevel": 8,

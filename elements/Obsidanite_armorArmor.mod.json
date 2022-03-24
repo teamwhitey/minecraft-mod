@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "obsidanite_armor_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Betterendstuff"
     },
     "armorTextureFile": "obsidanite_armor",
     "helmetName": "Obsidanite Helmet",

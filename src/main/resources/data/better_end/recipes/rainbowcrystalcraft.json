@@ -1,0 +1,26 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:rainbowshard"
+    },
+    "1": {
+      "item": "better_end:rainbowshard"
+    },
+    "2": {
+      "item": "better_end:rainbowshard"
+    },
+    "3": {
+      "item": "better_end:rainbowshard"
+    }
+  },
+  "result": {
+    "item": "better_end:rainbowcrystal",
+    "count": 1
+  }
+}

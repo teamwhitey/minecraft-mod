@@ -6,10 +6,10 @@ import net.minecraftforge.registries.ObjectHolder;
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.ShovelItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 
+import net.mcreator.betterend.itemgroup.BetterendstuffItemGroup;
 import net.mcreator.betterend.BetterEndModElements;
 
 @BetterEndModElements.ModElement.Tag
@@ -46,7 +46,7 @@ public class Reinforced_enderiteShovelItem extends BetterEndModElements.ModEleme
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(Reinforced_enderiteIngotItem.block));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -3f, new Item.Properties().group(BetterendstuffItemGroup.tab)) {
 		}.setRegistryName("reinforced_enderite_shovel"));
 	}
 }

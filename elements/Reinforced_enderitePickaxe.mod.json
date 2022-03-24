@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "reinforced_enderite_pickaxe",
     "customModelName": "Normal",
-    "name": "Reinforced_enderite Pickaxe",
+    "name": "Reinforced enderite Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Betterendstuff"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 8,

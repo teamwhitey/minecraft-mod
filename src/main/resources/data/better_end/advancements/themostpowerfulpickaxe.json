@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "better_end:obsidanite_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.themostpowerfulpickaxe.title"
+    },
+    "description": {
+      "translate": "advancements.themostpowerfulpickaxe.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "themostpowerfulpickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "better_end:obsidanite_pickaxe",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "better_end:obsidaniteg"
+}

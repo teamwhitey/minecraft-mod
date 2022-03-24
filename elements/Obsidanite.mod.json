@@ -10,31 +10,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
         "value": "Blocks.OBSIDIAN"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       },
       {
-        "value": "CUSTOM:EnderiteIngot"
+        "value": "CUSTOM:Reinforced_enderiteIngot"
       }
     ],
     "recipeReturnStack": {

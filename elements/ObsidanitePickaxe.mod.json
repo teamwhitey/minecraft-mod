@@ -8,7 +8,7 @@
     "name": "Obsidanite Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Betterendstuff"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 16,
