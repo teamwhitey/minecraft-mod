@@ -26,6 +26,21 @@
       },
       {
         "value": "CUSTOM:Enddesert"
+      },
+      {
+        "value": "CUSTOM:Youngdragonforest"
+      },
+      {
+        "value": "CUSTOM:Youngenderforest"
+      },
+      {
+        "value": "CUSTOM:Youngmagicforest"
+      },
+      {
+        "value": "CUSTOM:Youngsunforest"
+      },
+      {
+        "value": "CUSTOM:Youngwaterforest"
       }
     ],
     "worldGenType": "End like gen",

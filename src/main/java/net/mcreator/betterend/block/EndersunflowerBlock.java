@@ -108,6 +108,8 @@ public class EndersunflowerBlock extends BetterEndModElements.ModElement {
 		boolean biomeCriteria = false;
 		if (new ResourceLocation("better_end:sun").equals(event.getName()))
 			biomeCriteria = true;
+		if (new ResourceLocation("better_end:youngsunforest").equals(event.getName()))
+			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;
 		event.getGeneration().getFeatures(GenerationStage.Decoration.VEGETAL_DECORATION).add(() -> configuredFeature);

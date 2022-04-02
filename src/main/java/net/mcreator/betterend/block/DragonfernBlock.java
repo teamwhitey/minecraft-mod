@@ -114,7 +114,7 @@ public class DragonfernBlock extends BetterEndModElements.ModElement {
 		boolean biomeCriteria = false;
 		if (new ResourceLocation("better_end:dragon").equals(event.getName()))
 			biomeCriteria = true;
-		if (new ResourceLocation("better_end:enderforest").equals(event.getName()))
+		if (new ResourceLocation("better_end:youngdragonforest").equals(event.getName()))
 			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;

@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "buttons"
+      "item": "better_end:magic_button"
     },
     {
       "item": "minecraft:ender_pearl"

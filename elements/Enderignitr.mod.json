@@ -10,7 +10,7 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "TAG:buttons"
+        "value": "CUSTOM:MagicButton"
       },
       {
         "value": ""

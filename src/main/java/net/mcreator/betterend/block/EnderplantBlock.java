@@ -106,6 +106,8 @@ public class EnderplantBlock extends BetterEndModElements.ModElement {
 		boolean biomeCriteria = false;
 		if (new ResourceLocation("better_end:enderforest").equals(event.getName()))
 			biomeCriteria = true;
+		if (new ResourceLocation("better_end:youngenderforest").equals(event.getName()))
+			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;
 		event.getGeneration().getFeatures(GenerationStage.Decoration.VEGETAL_DECORATION).add(() -> configuredFeature);

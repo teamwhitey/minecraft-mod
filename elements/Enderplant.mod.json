@@ -89,6 +89,9 @@
     "restrictionBiomes": [
       {
         "value": "CUSTOM:Enderforest"
+      },
+      {
+        "value": "CUSTOM:Youngenderforest"
       }
     ],
     "patchSize": 2

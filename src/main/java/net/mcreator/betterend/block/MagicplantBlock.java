@@ -105,6 +105,8 @@ public class MagicplantBlock extends BetterEndModElements.ModElement {
 		boolean biomeCriteria = false;
 		if (new ResourceLocation("better_end:magicforest").equals(event.getName()))
 			biomeCriteria = true;
+		if (new ResourceLocation("better_end:youngmagicforest").equals(event.getName()))
+			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;
 		event.getGeneration().getFeatures(GenerationStage.Decoration.VEGETAL_DECORATION).add(() -> configuredFeature);
