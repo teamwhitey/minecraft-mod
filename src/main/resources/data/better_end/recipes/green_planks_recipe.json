@@ -1,0 +1,13 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:green_log"
+    }
+  ],
+  "result": {
+    "item": "better_end:green_planks",
+    "count": 4
+  }
+}

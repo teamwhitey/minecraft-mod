@@ -39,7 +39,7 @@
     "temperature": 0.5,
     "baseHeight": 0.1,
     "heightVariation": 0.2,
-    "biomeType": "WARM",
+    "biomeType": "DESERT",
     "spawnBiome": false,
     "biomeWeight": 10,
     "biomeDictionaryTypes": [],
@@ -52,7 +52,7 @@
     "gravelPatchesPerChunk": 0,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
-    "treesPerChunk": 1,
+    "treesPerChunk": 0,
     "vanillaTreeType": "Savanna trees",
     "treeType": 1,
     "minHeight": 7,
@@ -81,7 +81,8 @@
     "spawnShipwreck": false,
     "oceanRuinType": "NONE",
     "defaultFeatures": [
-      "Caves"
+      "Caves",
+      "Ores"
     ],
     "spawnEntries": []
   }

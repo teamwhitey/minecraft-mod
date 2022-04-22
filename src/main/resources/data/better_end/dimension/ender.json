@@ -7,28 +7,28 @@
       "type": "minecraft:multi_noise",
       "seed": 0,
       "temperature_noise": {
-        "firstOctave": -7.63,
+        "firstOctave": -8.68,
         "amplitudes": [
           2,
           2
         ]
       },
       "humidity_noise": {
-        "firstOctave": -7.63,
+        "firstOctave": -8.68,
         "amplitudes": [
           2,
           2
         ]
       },
       "altitude_noise": {
-        "firstOctave": -7.63,
+        "firstOctave": -8.68,
         "amplitudes": [
           2,
           2
         ]
       },
       "weirdness_noise": {
-        "firstOctave": -7.63,
+        "firstOctave": -8.68,
         "amplitudes": [
           2,
           2
@@ -48,8 +48,8 @@
         {
           "biome": "better_end:magicforest",
           "parameters": {
-            "temperature": 0.833333333334,
-            "humidity": -0.833333333334,
+            "temperature": 0.882352941176,
+            "humidity": -0.882352941176,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -58,8 +58,8 @@
         {
           "biome": "better_end:dragon",
           "parameters": {
-            "temperature": 0.666666666666,
-            "humidity": -0.666666666666,
+            "temperature": 0.764705882352,
+            "humidity": -0.764705882352,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -68,8 +68,8 @@
         {
           "biome": "better_end:obsidantowers",
           "parameters": {
-            "temperature": 0.5,
-            "humidity": -0.5,
+            "temperature": 0.64705882353,
+            "humidity": -0.64705882353,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -78,8 +78,8 @@
         {
           "biome": "better_end:sun",
           "parameters": {
-            "temperature": 0.333333333334,
-            "humidity": -0.333333333334,
+            "temperature": 0.529411764706,
+            "humidity": -0.529411764706,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -88,8 +88,8 @@
         {
           "biome": "better_end:water",
           "parameters": {
-            "temperature": 0.166666666666,
-            "humidity": -0.166666666666,
+            "temperature": 0.411764705882,
+            "humidity": -0.411764705882,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -98,8 +98,8 @@
         {
           "biome": "better_end:enderhills",
           "parameters": {
-            "temperature": 0,
-            "humidity": 0,
+            "temperature": 0.294117647058,
+            "humidity": -0.294117647058,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -108,8 +108,8 @@
         {
           "biome": "better_end:enddesert",
           "parameters": {
-            "temperature": -0.166666666666,
-            "humidity": 0.166666666666,
+            "temperature": 0.176470588236,
+            "humidity": -0.176470588236,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -118,8 +118,8 @@
         {
           "biome": "better_end:youngdragonforest",
           "parameters": {
-            "temperature": -0.333333333334,
-            "humidity": 0.333333333334,
+            "temperature": 0.058823529412,
+            "humidity": -0.058823529412,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -128,8 +128,8 @@
         {
           "biome": "better_end:youngenderforest",
           "parameters": {
-            "temperature": -0.5,
-            "humidity": 0.5,
+            "temperature": -0.058823529412,
+            "humidity": 0.058823529412,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -138,8 +138,8 @@
         {
           "biome": "better_end:youngmagicforest",
           "parameters": {
-            "temperature": -0.666666666666,
-            "humidity": 0.666666666666,
+            "temperature": -0.176470588236,
+            "humidity": 0.176470588236,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -148,8 +148,8 @@
         {
           "biome": "better_end:youngsunforest",
           "parameters": {
-            "temperature": -0.833333333334,
-            "humidity": 0.833333333334,
+            "temperature": -0.294117647058,
+            "humidity": 0.294117647058,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -158,10 +158,60 @@
         {
           "biome": "better_end:youngwaterforest",
           "parameters": {
-            "temperature": -1,
-            "humidity": 1,
+            "temperature": -0.411764705882,
+            "humidity": 0.411764705882,
             "altitude": 0.75,
             "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "better_end:enderdesertsplit",
+          "parameters": {
+            "temperature": -0.529411764706,
+            "humidity": 0.529411764706,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "better_end:greenforest",
+          "parameters": {
+            "temperature": -0.64705882353,
+            "humidity": 0.64705882353,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "better_end:younggreenforest",
+          "parameters": {
+            "temperature": -0.764705882352,
+            "humidity": 0.764705882352,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "better_end:younggreenforest",
+          "parameters": {
+            "temperature": -0.882352941176,
+            "humidity": 0.882352941176,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "better_end:greenforest",
+          "parameters": {
+            "temperature": -1,
+            "humidity": 1,
+            "altitude": -0.75,
+            "weirdness": 1.5,
             "offset": 0
           }
         }

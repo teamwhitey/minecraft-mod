@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "better_end:enderite_block",
-    "better_end:enderainium_block"
+    "better_end:enderainium_block",
+    "better_end:enderlands_block",
+    "better_end:reinforced_enderite_block",
+    "better_end:obsidaniteblock",
+    "better_end:greenerite_block"
   ]
 }

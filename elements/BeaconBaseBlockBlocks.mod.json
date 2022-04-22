@@ -10,6 +10,18 @@
       },
       {
         "value": "CUSTOM:EnderainiumBlock"
+      },
+      {
+        "value": "CUSTOM:EnderlandsBlock"
+      },
+      {
+        "value": "CUSTOM:Reinforced_enderiteBlock"
+      },
+      {
+        "value": "CUSTOM:Obsidaniteblock"
+      },
+      {
+        "value": "CUSTOM:GreeneriteBlock"
       }
     ],
     "functions": [],

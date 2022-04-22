@@ -22,6 +22,9 @@
       },
       {
         "value": "CUSTOM:EndtachaLeaves"
+      },
+      {
+        "value": "CUSTOM:GreenLeaves"
       }
     ],
     "functions": [],

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/enderstoneblock",
+    "up": "better_end:blocks/greennylimtop",
+    "north": "better_end:blocks/greennylim",
+    "east": "better_end:blocks/greennylim",
+    "south": "better_end:blocks/greennylim",
+    "west": "better_end:blocks/greennylim",
+    "particle": "better_end:blocks/enderstoneblock"
+  }
+}

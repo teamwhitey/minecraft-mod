@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "do sneaker spawning",
+    "description": "spawn sneakers or not [ALPHA]",
+    "category": "MOBS",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

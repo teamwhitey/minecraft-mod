@@ -49,7 +49,9 @@ public class EndercrystalStructure {
 					int ck = (pos.getZ() >> 4) << 4;
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
-					if (dimensionType == World.OVERWORLD)
+					if (dimensionType == RegistryKey.getOrCreateKey(Registry.WORLD_KEY, new ResourceLocation("better_end:ender")))
+						dimensionCriteria = true;
+					if (dimensionType == RegistryKey.getOrCreateKey(Registry.WORLD_KEY, new ResourceLocation("better_end:enderdesert")))
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;

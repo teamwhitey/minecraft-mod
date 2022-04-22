@@ -1,0 +1,26 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:green_log"
+    },
+    "1": {
+      "item": "better_end:green_log"
+    },
+    "2": {
+      "item": "better_end:green_log"
+    },
+    "3": {
+      "item": "better_end:green_log"
+    }
+  },
+  "result": {
+    "item": "better_end:green_wood",
+    "count": 3
+  }
+}

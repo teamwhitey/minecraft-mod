@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "better_end:blocks/greenerite_ore_block",
+    "particle": "better_end:blocks/greenerite_ore_block"
+  }
+}

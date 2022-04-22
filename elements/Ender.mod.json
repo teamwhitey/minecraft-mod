@@ -41,6 +41,21 @@
       },
       {
         "value": "CUSTOM:Youngwaterforest"
+      },
+      {
+        "value": "CUSTOM:Enderdesertsplit"
+      },
+      {
+        "value": "CUSTOM:Greenforest"
+      },
+      {
+        "value": "CUSTOM:Younggreenforest"
+      },
+      {
+        "value": "CUSTOM:Younggreenforest"
+      },
+      {
+        "value": "CUSTOM:Greenforest"
       }
     ],
     "worldGenType": "End like gen",

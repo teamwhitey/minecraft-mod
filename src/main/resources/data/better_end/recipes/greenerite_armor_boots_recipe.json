@@ -1,0 +1,26 @@
+{
+  "group": "better_end",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "better_end:greenerite_ingot"
+    },
+    "2": {
+      "item": "better_end:greenerite_ingot"
+    },
+    "3": {
+      "item": "better_end:greenerite_ingot"
+    },
+    "5": {
+      "item": "better_end:greenerite_ingot"
+    }
+  },
+  "result": {
+    "item": "better_end:greenerite_armor_boots",
+    "count": 1
+  }
+}

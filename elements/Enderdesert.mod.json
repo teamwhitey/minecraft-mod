@@ -5,6 +5,9 @@
     "biomesInDimension": [
       {
         "value": "CUSTOM:Enddesert"
+      },
+      {
+        "value": "CUSTOM:Enderdesertsplit"
       }
     ],
     "worldGenType": "Normal world gen",

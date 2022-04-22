@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_end:blocks/enderstoneblock",
+    "up": "better_end:blocks/endtatcha_nylim_top",
+    "north": "better_end:blocks/endtatcha_nylim",
+    "east": "better_end:blocks/endtatcha_nylim",
+    "south": "better_end:blocks/endtatcha_nylim",
+    "west": "better_end:blocks/endtatcha_nylim",
+    "particle": "better_end:blocks/enderstoneblock"
+  }
+}
